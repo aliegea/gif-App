@@ -1,6 +1,6 @@
 # GifsApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.2.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.2.Allows you to serach for a gif and show the first 10 results. The app keepd the search history of the las 10 items in your local storage.
 
 ## Development server
 
